@@ -9,6 +9,15 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=uraloff&style=plastic&color=green" alt=""/>
 </div>
-My name is <b>Ali</b>, full name is <b>Muhammadali Uralov</b>, and I am a developer of telegram bots. Actually, my goal is to become a Fullstack developer, but for some reason I started my career in the field of bot development. At the moment I know <b>Java</b> (basic), <b>Python</b> (medium), <b>Aiogram framework</b> (medium). I've been actively developing bots lately. I developed my own pet project, a bot for the bank, and so on. I learned a lot of things during the development process.
+Full name’s <b>Muhammadali Uralov</b>, but everyone just calls me <b>Ali</b>.
+I’m the guy who builds Telegram bots that actually do stuff, not just send “Hello World” 😏.
 
-But to be honest, lately I feel like it's all a waste of time. I don't know why. I was looking for vacancies in this field, but I never found one, so I'm thinking of switching to web development
+Started my journey in bot dev, but the endgame is clear — <b>Full-Stack Developer</b>.
+Somehow I’ve been vibin’ in this chatbot world for a while now, and here’s where I’m at:
+	•	💼 1 year as a Chatbot Specialist at a bank (yeah, the real deal 🏦)
+	•	🛠 Built <b>4+ pet projects</b> — from small automation tools to fully working banking bots
+	•	📚 Skills: <b>Python</b> (mid), <b>Aiogram</b>, <b>PostgreSQL</b>, <b>Alembic</b>, <b>Git</b>, and enough <b>Java</b> to keep things running
+	•	🔥 Recently started diving into <b>web dev</b>, ‘cause I wanna go full-stack and make my ideas happen from scratch to launch
+
+Always down to learn, build, and break stuff (in a safe way 🤓).
+If you’re working on something cool — hit me up
