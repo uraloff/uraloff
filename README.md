@@ -9,15 +9,24 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=uraloff&style=plastic&color=green" alt=""/>
 </div>
-Full name’s <b>Muhammadali Uralov</b>, but everyone just calls me <b>Ali</b>.
-I’m the guy who builds Telegram bots that actually do stuff, not just send “Hello World” 😏.
+<p>
+    Full name’s <strong>Muhammadali Uralov</strong>, but everyone just calls me Ali.  
+    I build Telegram bots that actually <em>do stuff</em> — not just send “Hello World” 😏
+  </p>
 
-Started my journey in bot dev, but the endgame is clear — <b>Full-Stack Developer</b>.
-Somehow I’ve been vibin’ in this chatbot world for a while now, and here’s where I’m at:
-	•	💼 1 year as a Chatbot Specialist at a bank (yeah, the real deal 🏦)
-	•	🛠 Built <b>4+ pet projects</b> — from small automation tools to fully working banking bots
-	•	📚 Skills: <b>Python</b> (mid), <b>Aiogram</b>, <b>PostgreSQL</b>, <b>Alembic</b>, <b>Git</b>, and enough <b>Java</b> to keep things running
-	•	🔥 Recently started diving into <b>web dev</b>, ‘cause I wanna go full-stack and make my ideas happen from scratch to launch
+  <p>
+    Started my journey in bot dev, but the endgame is clear — <strong>Full-Stack Developer</strong>.  
+    I’ve been vibin’ in the chatbot world for a while; here’s where I’m at:
+  </p>
 
-Always down to learn, build, and break stuff (in a safe way 🤓).
-If you’re working on something cool — hit me up
+  <ul>
+    <li>💼 <strong>Chatbot Specialist</strong> — 1 year at a bank 🏦</li>
+    <li>🛠 Built <strong>4+ pet projects</strong> — from small automation tools to production banking bots</li>
+    <li>📚 <strong>Skills:</strong> Python (intermediate), Aiogram, PostgreSQL, Alembic, Git, Java (basics)</li>
+    <li>🔥 Currently diving into web development — aiming to own the stack from front to back</li>
+  </ul>
+
+  <p>
+    Always down to learn, build, and (safely) break stuff 🤓.  
+    Working on something cool? <strong>Hit me up.</strong>
+  </p>
